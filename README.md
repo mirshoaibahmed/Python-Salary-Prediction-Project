@@ -35,7 +35,7 @@ The model achieved an average accuracy of [Insert your average accuracy here fro
 
 1.  Clone this repository to your local machine:
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourGitHubUsername]/[YourRepositoryName].git
+    git clone https://github.com/mirshoaibahmed/Python-Salary-Prediction-Project.git
     ```
 2.  Navigate to the project directory.
 3.  Ensure you have Python and the required libraries (Pandas, NumPy, Matplotlib, scikit-learn) installed.
