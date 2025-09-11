@@ -1,4 +1,4 @@
-# [Project Title]
+# Salary Prediction 
 
 A data analysis and machine learning project focused on predicting salary using Python.
 
@@ -9,7 +9,7 @@ This project involves a complete data science workflow, from data cleaning and e
 ## Technologies and Libraries
 
 * **Python:** The core programming language used.
-* **Jupyter Notebook:** The environment where the analysis was conducted.
+* **Google Colab:** The environment where the analysis was conducted.
 * **Pandas:** Used for data manipulation, cleaning, and analysis.
 * **NumPy:** Used for numerical operations.
 * **Matplotlib:** Used for data visualization to explore trends and distributions.
@@ -39,7 +39,7 @@ The model achieved an average accuracy of [Insert your average accuracy here fro
     ```
 2.  Navigate to the project directory.
 3.  Ensure you have Python and the required libraries (Pandas, NumPy, Matplotlib, scikit-learn) installed.
-4.  Open the Jupyter Notebook file in your environment:
+4.  Open the Google Colab file in your environment:
     ```bash
     jupyter notebook python_final_project_group_15.ipynb
     ```
